@@ -1,0 +1,15 @@
+tensorflow
+keras
+Flask
+SQLAlchemy
+bcrypt
+scikit-image
+opencv-python
+gevent
+
+
+# To evaluate your model answers :
+#sklearn
+#pandas
+#matplotlib
+#seaborn
