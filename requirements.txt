@@ -6,9 +6,9 @@ bcrypt
 scikit-image
 opencv-python
 gevent
+gunicorn
 
-
-# To evaluate your model answers :
+#To evaluate your model answers :
 #sklearn
 #pandas
 #matplotlib
